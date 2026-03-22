@@ -141,6 +141,6 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 
 ## 👨‍💻 Author
 
-Your Name
+Alan Paul
 Machine Learning Enthusiast
 
